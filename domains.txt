@@ -1,0 +1,6 @@
+www.google.com
+www.github.com
+www.gitlab.com
+www.microsoft.com
+127.0.0.1
+localhost
